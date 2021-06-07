@@ -1,0 +1,9 @@
+hello world program in java - My captain -java course task 
+
+class Firstprograminjava
+{
+  public static void main(String args[])
+  {
+    System.out.println("Hello world! ");
+  }
+}
